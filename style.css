@@ -1,0 +1,33 @@
+.button {
+    background-color:chocolate;
+    border: none;
+    color:white;
+    padding: 20px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  .main{
+      display: flex;
+      justify-content: space-evenly;
+  }
+  .virtual {
+    background-color:purple;
+    color: white;
+    border: none;
+  
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  .rankers{
+      display: flex;
+      justify-content: space-evenly;
+  }
